@@ -1,4 +1,5 @@
-nombres = [
+{
+  "nombres": [
     "Elba Gina", "Aydee Pepperoni", "Lazo Rita", "Débora Vergara", "Mónica Galindo",
     "Mama Lona", "Luci Latanga", "Verónica Gando", "Rosa Canales", "Débora Testa",
     "Miva Gina", "Lola Maras", "Anna Banana", "Kiti Kiero", "Lola Ila", "Soly Luna",
@@ -49,4 +50,5 @@ nombres = [
     "Antonio Sol", "Pablo Sol", "Pedro Sol", "Carmen Sol", "Jorge Sol", "María Ríos", "Paula Ríos", 
     "Lucía Ríos", "Sara Ríos", "Teresa Ríos", "Isabel Ríos", "Eva Ríos", "Ana Ríos", "Antonio Ríos", 
     "Pablo Ríos", "Pedro Ríos", "Carmen Ríos", "Jorge Ríos"
-]
+  ]
+}
