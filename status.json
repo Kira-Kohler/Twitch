@@ -2,6 +2,6 @@
   "success": true,
   "mensaje": "Tienes permisos para ejecutar este archivo.",
   "whitelist": [
-    {"pc_name": "Kira", "id": "62.19"},
+    {"pc_name": "Kir", "id": "62.19"},
   ]
 }
